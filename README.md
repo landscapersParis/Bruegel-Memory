@@ -1,2 +1,3 @@
-# Bruegel-Memory
-Jouer avec Bruegel, le memory, à été réalisé avec Gimp et React, pour le collège de ma 6ème Evans
+# Bruegel - A React browser memory game
+### Jouer en ligne [ici](https://bruegel-memory.now.sh)
+![screenshot](images/shortScreen.png)
